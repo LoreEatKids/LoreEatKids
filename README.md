@@ -1,5 +1,6 @@
 Just a normal nerd guy
 
-- Python,html,css
+- Python
+- Web Developer
 - cybersecuity,ethical-hacking
 
