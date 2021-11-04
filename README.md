@@ -2,5 +2,5 @@ Just a normal nerd guy
 
 - Python
 - Web Developer
-- cybersecuity, ethical-hacking, security IT
+- cybersecurity, ethical-hacking, security IT
 
