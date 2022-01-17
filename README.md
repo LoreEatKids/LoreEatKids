@@ -1,4 +1,4 @@
 - Python
-- Web Developer
+- FrontEnd Web Developer
 - cybersecurity, ethical-hacking, security IT
 
