@@ -9,12 +9,12 @@
 </p>
 <p>
 <h1>Big Fan of: </h1>
-- CryptoCurrency, technical analysis
+- CryptoCurrency, technical analysis <br>
 - Blockchain
 </p>
 <h1>Big Hater of: </h1>
 <p>
-- Nft, like imaging buying JPG files 
+- NFT, like imaging buying JPG files 
 </p>
 
 
