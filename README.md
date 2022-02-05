@@ -1,6 +1,6 @@
 <h1>Welcome :)</h1><br>
 
-I'm mostly a **Freelance** Web **Developer**, interested to Ethical Hacking and Cyber-Security.
+I'm mostly a **Freelance** Web **Developer**, interested in Ethical Hacking and Cyber-Security.
 <br>
 <p>I'm involved in <a href="https://developer.ibm.com/callforcode/">Call For Code</a> and i also started some Projects:</p>
 <section>
