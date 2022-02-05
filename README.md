@@ -1,10 +1,20 @@
-<h1>Welcome :)</h1><br>
+<h1>Welcome :)</h1>
 
-I'm mostly a **Freelance** Web **Developer**, interested in Ethical Hacking and Cyber-Security.
+**Freelance** Web (APP) **Developer**, interested in Ethical Hacking and Cyber-Security.
 <br>
 <p>I'm involved in <a href="https://developer.ibm.com/callforcode/">Call For Code</a> and i also started some Projects:</p>
-<section>
+<p>
   - <a href="https://quirky-leakey-2dc0eb.netlify.app/">Discord Bot</a><br>
   - <a href="https://kidseater.com/">Website, for fun</a>
-</section>
+</p>
+<p>
+<h1>Big Fan of: </h1>
+- CryptoCurrency, technical analysis
+- Blockchain
+</p>
+<h1>Big Hater of: </h1>
+<p>
+- Nft, like imaging buying JPG files 
+</p>
+
 
