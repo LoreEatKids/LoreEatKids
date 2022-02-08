@@ -10,7 +10,7 @@
 <p>
 <h1>Big Fan of: </h1>
 - CryptoCurrency, technical analysis <br>
-- Blockchain
+- Blockchain, Smart Contract
 </p>
 <h1>Big Hater of: </h1>
 <p>
