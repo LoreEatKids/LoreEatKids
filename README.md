@@ -14,7 +14,7 @@
 </p>
 <h1>Big Hater of: </h1>
 <p>
-- NFT, like imaging buying JPG files 
+- NFT, like imagine buying JPG files 
 </p>
 
 
