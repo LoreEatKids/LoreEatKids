@@ -2,10 +2,10 @@
 
 **Freelance** Web (APP) **Developer**, interested in Ethical Hacking and Cyber-Security.
 <br>
-<p>I'm involved in <a href="https://developer.ibm.com/callforcode/" target="_blank">Call For Code</a> and i also started some Projects:</p>
+<p>I'm involved in <a href="https://developer.ibm.com/callforcode/" target="_blank">Call For Code</a>, i also started some projects of mine as well:</p>
 <p>
   - <a href="https://quirky-leakey-2dc0eb.netlify.app/">Discord Bot</a><br>
-  - <a href="https://kidseater.com/">Website, for fun</a>
+  - <a href="https://kidseater.com/">Website</a>, Italian Only :(
 </p>
 <p>
 <h1>Big Fan of: </h1>
