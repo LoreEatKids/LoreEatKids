@@ -1,1 +1,1 @@
-**Freelance** Web (APP) **Developer**
+**Freelance** Full Stack **Developer**
